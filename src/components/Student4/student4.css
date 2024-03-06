@@ -1,0 +1,37 @@
+.student-details-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.student-card {
+    display: flex;
+    margin-top: 50px;
+    flex-direction: column;
+    align-items: center;
+    background-color: #0f172a;
+    width: 70%;
+    border-radius: 16px;
+    padding-top: 12px;
+    padding-left: 16px;
+    padding-bottom: 12px;
+    padding-right: 16px;
+    margin-bottom: 24px;
+  }
+
+  .name-heading{
+    color: #fff;
+  }
+
+  .student-img-container{
+    width: 200px;
+    height: 200px;
+  }
+
+  .student-img{
+    height: 100%;
+    width: 100%;
+  }
+
+  .student-details{
+    color: #fff;
+  }
